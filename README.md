@@ -25,3 +25,10 @@ first task in ai training
       6- push chnage to my fork
       7- submit pull request
       8- wait for feedback  
+
+summary:
+   this repo include 3 things
+   1- a python file have print statement
+   2- personal info about me name file info.txt
+   3- practice how to make merge and pull request 
+    
